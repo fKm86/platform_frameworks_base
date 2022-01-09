@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.bliss.hardware;
+package com.android.internal.arrow.hardware;
 
 import android.util.Range;
 
